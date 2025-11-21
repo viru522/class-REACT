@@ -1,0 +1,8 @@
+{
+    "allProducts":[
+        {"id":"101", "name":"Smart Watch"},
+        {"id":"102", "name":"iPhone 17"},
+        {"id":"103", "name":"Laptop"},
+        {"id":"104", "name":"ipad"}
+    ]
+}
